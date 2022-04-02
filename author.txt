@@ -1,0 +1,308 @@
+[
+    {
+        "first_name": "First",
+        "last_name": "author",
+        "dob": "12/10/1988",
+        "_id": "61d07b2abbb7b2905289ad95",
+        "createdAt": "2022-01-01T16:02:50.433Z",
+        "updatedAt": "2022-01-01T16:02:50.433Z"
+    },
+    {
+        "first_name": "Second",
+        "last_name": "author",
+        "dob": "03/11/1991",
+        "_id": "61d07b2abbb7b2905289ad96",
+        "createdAt": "2022-01-01T16:02:50.433Z",
+        "updatedAt": "2022-01-01T16:02:50.433Z"
+    },
+    {
+        "first_name": "Third",
+        "last_name": "author",
+        "dob": "05/12/1989",
+        "_id": "61d07b2abbb7b2905289ad97",
+        "createdAt": "2022-01-01T16:02:50.434Z",
+        "updatedAt": "2022-01-01T16:02:50.434Z"
+    },
+    {
+        "first_name": "Fourth",
+        "last_name": "author",
+        "dob": "01/09/1999",
+        "_id": "61d07b2abbb7b2905289ad98",
+        "createdAt": "2022-01-01T16:02:50.434Z",
+        "updatedAt": "2022-01-01T16:02:50.434Z"
+    },
+    {
+        "first_name": "Fifth",
+        "last_name": "author",
+        "dob": "03/07/1993",
+        "_id": "61d07b2abbb7b2905289ad99",
+        "createdAt": "2022-01-01T16:02:50.434Z",
+        "updatedAt": "2022-01-01T16:02:50.434Z"
+    },
+    {
+        "first_name": "Sixth",
+        "last_name": "author",
+        "dob": "03/07/2000",
+        "_id": "61d07b2abbb7b2905289ad9a",
+        "createdAt": "2022-01-01T16:02:50.434Z",
+        "updatedAt": "2022-01-01T16:02:50.434Z"
+    }
+]
+
+
+
+
+// sections ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[
+    {
+        "_id": "61d07778d48cc7468318b145",
+        "name": "CSS",
+        "createdAt": "2022-01-01T15:47:04.201Z",
+        "updatedAt": "2022-01-01T15:47:04.201Z"
+    },
+    {
+        "_id": "61d07780d48cc7468318b147",
+        "name": "HTML",
+        "createdAt": "2022-01-01T15:47:12.869Z",
+        "updatedAt": "2022-01-01T15:47:12.869Z"
+    },
+    {
+        "_id": "61d078eed48cc7468318b149",
+        "name": "JavaScript",
+        "createdAt": "2022-01-01T15:53:18.395Z",
+        "updatedAt": "2022-01-01T15:53:18.395Z"
+    },
+    {
+        "_id": "61d078eed48cc7468318b14a",
+        "name": "React",
+        "createdAt": "2022-01-01T15:53:18.395Z",
+        "updatedAt": "2022-01-01T15:53:18.395Z"
+    },
+    {
+        "_id": "61d078eed48cc7468318b14b",
+        "name": "NodeJs",
+        "createdAt": "2022-01-01T15:53:18.395Z",
+        "updatedAt": "2022-01-01T15:53:18.395Z"
+    },
+    {
+        "_id": "61d078eed48cc7468318b14c",
+        "name": "Express",
+        "createdAt": "2022-01-01T15:53:18.395Z",
+        "updatedAt": "2022-01-01T15:53:18.395Z"
+    },
+    {
+        "_id": "61d078eed48cc7468318b14d",
+        "name": "MongoDB",
+        "createdAt": "2022-01-01T15:53:18.395Z",
+        "updatedAt": "2022-01-01T15:53:18.395Z"
+    }
+]
+
+
+
+
+
+
+
+
+[
+    {
+        "_id": "61d07d3ad6e205e204b7d614",
+        "title": "CSS 1",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07778d48cc7468318b145",
+        "author_id": "61d07b2abbb7b2905289ad95",
+        "createdAt": "2022-01-01T16:11:38.560Z",
+        "updatedAt": "2022-01-01T16:11:38.560Z"
+    },
+    {
+        "_id": "61d07d3ad6e205e204b7d615",
+        "title": "CSS 2",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07778d48cc7468318b145",
+        "author_id": "61d07b2abbb7b2905289ad96",
+        "createdAt": "2022-01-01T16:11:38.561Z",
+        "updatedAt": "2022-01-01T16:11:38.561Z"
+    },
+    {
+        "_id": "61d07d3ad6e205e204b7d616",
+        "title": "CSS 3",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07778d48cc7468318b145",
+        "author_id": "61d07b2abbb7b2905289ad97",
+        "createdAt": "2022-01-01T16:11:38.563Z",
+        "updatedAt": "2022-01-01T16:11:38.563Z"
+    },
+    {
+        "_id": "61d07d3ad6e205e204b7d617",
+        "title": "CSS 4",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07778d48cc7468318b145",
+        "author_id": "61d07b2abbb7b2905289ad98",
+        "createdAt": "2022-01-01T16:11:38.563Z",
+        "updatedAt": "2022-01-01T16:11:38.563Z"
+    },
+    {
+        "_id": "61d07d3ad6e205e204b7d618",
+        "title": "CSS 5",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07778d48cc7468318b145",
+        "author_id": "61d07b2abbb7b2905289ad99",
+        "createdAt": "2022-01-01T16:11:38.563Z",
+        "updatedAt": "2022-01-01T16:11:38.563Z"
+    },
+    {
+        "_id": "61d07d3ad6e205e204b7d619",
+        "title": "CSS 6",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07778d48cc7468318b145",
+        "author_id": "61d07b2abbb7b2905289ad9a",
+        "createdAt": "2022-01-01T16:11:38.563Z",
+        "updatedAt": "2022-01-01T16:11:38.563Z"
+    },
+    {
+        "_id": "61d07debd6e205e204b7d620",
+        "title": "HTML 1",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07780d48cc7468318b147",
+        "author_id": "61d07b2abbb7b2905289ad95",
+        "createdAt": "2022-01-01T16:14:35.838Z",
+        "updatedAt": "2022-01-01T16:14:35.838Z"
+    },
+    {
+        "_id": "61d07debd6e205e204b7d621",
+        "title": "HTML 2",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07780d48cc7468318b147",
+        "author_id": "61d07b2abbb7b2905289ad96",
+        "createdAt": "2022-01-01T16:14:35.838Z",
+        "updatedAt": "2022-01-01T16:14:35.838Z"
+    },
+    {
+        "_id": "61d07debd6e205e204b7d622",
+        "title": "HTML 3",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07780d48cc7468318b147",
+        "author_id": "61d07b2abbb7b2905289ad97",
+        "createdAt": "2022-01-01T16:14:35.838Z",
+        "updatedAt": "2022-01-01T16:14:35.838Z"
+    },
+    {
+        "_id": "61d07debd6e205e204b7d623",
+        "title": "HTML 4",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07780d48cc7468318b147",
+        "author_id": "61d07b2abbb7b2905289ad98",
+        "createdAt": "2022-01-01T16:14:35.838Z",
+        "updatedAt": "2022-01-01T16:14:35.838Z"
+    },
+    {
+        "_id": "61d07debd6e205e204b7d624",
+        "title": "HTML 5",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07780d48cc7468318b147",
+        "author_id": "61d07b2abbb7b2905289ad99",
+        "createdAt": "2022-01-01T16:14:35.838Z",
+        "updatedAt": "2022-01-01T16:14:35.838Z"
+    },
+    {
+        "_id": "61d07debd6e205e204b7d625",
+        "title": "HTML 6",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d07780d48cc7468318b147",
+        "author_id": "61d07b2abbb7b2905289ad9a",
+        "createdAt": "2022-01-01T16:14:35.839Z",
+        "updatedAt": "2022-01-01T16:14:35.839Z"
+    },
+    {
+        "_id": "61d07e31d6e205e204b7d62c",
+        "title": "JavaScript 1",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d078eed48cc7468318b149",
+        "author_id": "61d07b2abbb7b2905289ad95",
+        "createdAt": "2022-01-01T16:15:45.134Z",
+        "updatedAt": "2022-01-01T16:15:45.134Z"
+    },
+    {
+        "_id": "61d07e31d6e205e204b7d62d",
+        "title": "JavaScript 2",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d078eed48cc7468318b149",
+        "author_id": "61d07b2abbb7b2905289ad96",
+        "createdAt": "2022-01-01T16:15:45.135Z",
+        "updatedAt": "2022-01-01T16:15:45.135Z"
+    },
+    {
+        "_id": "61d07e31d6e205e204b7d62e",
+        "title": "JavaScript 3",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d078eed48cc7468318b149",
+        "author_id": "61d07b2abbb7b2905289ad97",
+        "createdAt": "2022-01-01T16:15:45.135Z",
+        "updatedAt": "2022-01-01T16:15:45.135Z"
+    },
+    {
+        "_id": "61d07e31d6e205e204b7d62f",
+        "title": "JavaScript 4",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d078eed48cc7468318b149",
+        "author_id": "61d07b2abbb7b2905289ad98",
+        "createdAt": "2022-01-01T16:15:45.135Z",
+        "updatedAt": "2022-01-01T16:15:45.135Z"
+    },
+    {
+        "_id": "61d07e31d6e205e204b7d630",
+        "title": "JavaScript 5",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d078eed48cc7468318b149",
+        "author_id": "61d07b2abbb7b2905289ad99",
+        "createdAt": "2022-01-01T16:15:45.135Z",
+        "updatedAt": "2022-01-01T16:15:45.135Z"
+    },
+    {
+        "_id": "61d07e31d6e205e204b7d631",
+        "title": "JavaScript 6",
+        "publisher": "Asian",
+        "pages": 206,
+        "publicationDate": "12/10/2020",
+        "section_id": "61d078eed48cc7468318b149",
+        "author_id": "61d07b2abbb7b2905289ad9a",
+        "createdAt": "2022-01-01T16:15:45.135Z",
+        "updatedAt": "2022-01-01T16:15:45.135Z"
+    }
+]
